@@ -68,6 +68,8 @@ streamlit run app.py
 -Improve accuracy using advanced ensemble models
 -Add player-level performance factors and weather impact
 
+Live Link:https://ipl-prediction-app-jnqcdr3th4ywbg7mnj6ums.streamlit.app/
+
 
 
 

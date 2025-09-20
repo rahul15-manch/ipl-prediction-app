@@ -50,11 +50,13 @@ The IPL Prediction System analyzes match details such as teams, venue, toss deci
   - Winning Team
 
 ## Install required libraries:
+```
 pip install -r requirements.txt
-
+```
 ## Run the Streamlit app:
+```
 streamlit run app.py
-
+```
 ▶️ Usage
 -Launch the app using the command above.
 -Select the two teams, toss winner, venue, and decision.
@@ -68,7 +70,22 @@ streamlit run app.py
 -Improve accuracy using advanced ensemble models
 -Add player-level performance factors and weather impact
 
-Live Link:https://ipl-prediction-app-jnqcdr3th4ywbg7mnj6ums.streamlit.app/
+## 🌐 Live App
+[**IPL Prediction App**](https://ipl-prediction-app-jnqcdr3th4ywbg7mnj6ums.streamlit.app/) 🚀
+
+---
+
+## 👨‍💻 Author
+**Rahul Manchanda**
+
+---
+
+## 📫 Get in Touch
+
+| Email | LinkedIn | GitHub |
+|-------|----------|--------|
+| [![Email](https://img.shields.io/badge/Email-rahulmanchanda015%40gmail.com-red?logo=gmail&logoColor=white)](mailto:rahulmanchanda015@gmail.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul%20Manchanda-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-manchanda-3959b120a/) | [![GitHub](https://img.shields.io/badge/GitHub-rahul15--manch-black?logo=github&logoColor=white)](https://github.com/rahul15-manch) |
+
 
 
 
